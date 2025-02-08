@@ -1,0 +1,31 @@
+﻿# Unity ve ilgili dosyalar
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity'nin otomatik oluşturduğu dosyalar
+UserSettings/
+Assets/StreamingAssets/
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/*.hash*
+
+# Unity Collaborate cache ve config dosyaları
+.collab/
+.vscode/
+.idea/
+.vs/
+*.csproj
+*.sln
+*.userprefs
+
+# OS ve diğer gereksiz dosyalar
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
